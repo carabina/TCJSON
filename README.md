@@ -24,7 +24,7 @@ pod 'TCJSON'
 
 ## Author
 
-Tiziano Coroneo, https://facebook.com/tizianocoroneo
+Tiziano Coroneo, on [LinkedIn](https://www.linkedin.com/in/tizianocoroneo/) and [Facebook](https://facebook.com/tizianocoroneo)
 
 ## License
 
