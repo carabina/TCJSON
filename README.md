@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/TCJSON.svg?style=flat)](http://cocoapods.org/pods/TCJSON)
 [![Platform](https://img.shields.io/cocoapods/p/TCJSON.svg?style=flat)](http://cocoapods.org/pods/TCJSON)
 
+Simple monadic library for JSON Codable.
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
@@ -22,7 +24,7 @@ pod 'TCJSON'
 
 ## Author
 
-TizianoStrife, tizianocoroneo@me.com
+Tiziano Coroneo, https://facebook.com/tizianocoroneo
 
 ## License
 
