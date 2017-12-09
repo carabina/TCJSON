@@ -7,6 +7,7 @@
 
 import Foundation
 
+
 struct TCJSON<Content: Codable> {
     private let _content: Content?
     private let _json: Data?
